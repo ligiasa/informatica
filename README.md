@@ -14,3 +14,6 @@ https://www.canva.com/design/DAGNZwywy3o/msgGjdCYuYnAUImQooENDg/edit?utm_content
 
 ## CRIANDO PERFIL NO GITHUB
 Na segunda aula a professora Adriana nos apresentou o Github e nos auxiliou na criação de perfil. Assistimos uma vídeo aula e armazenando nosso trabalho da aula 1.
+
+## ENTREGA DO TRABALHO DE ANÁLISE DE DADOS 19/09
+[IMAGEM](https://github.com/ligiasa/informatica/blob/main/an%C3%A1lise%20de%20dados%20sjc.xlsx)
