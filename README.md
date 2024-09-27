@@ -19,4 +19,5 @@ Na segunda aula a professora Adriana nos apresentou o Github e nos auxiliou na c
 [IMAGEM](https://github.com/ligiasa/informatica/blob/main/an%C3%A1lise%20de%20dados%20sjc.xlsx)
 
 * [AULA 27/09/2024](#conhecendo-powerbi)
-* 
+* ![image](https://github.com/user-attachments/assets/574a7030-fef8-4529-a18b-cbca805e344e)
+
