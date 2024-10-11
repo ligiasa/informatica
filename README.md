@@ -21,3 +21,5 @@ Na segunda aula a professora Adriana nos apresentou o Github e nos auxiliou na c
 * [AULA 27/09/2024](#conhecendo-powerbi)
 * ![image](https://github.com/user-attachments/assets/574a7030-fef8-4529-a18b-cbca805e344e)
 
+* [AULA 11/10/2024](#conhecendo-powerbi)
+* 
