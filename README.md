@@ -1,4 +1,7 @@
-# Atividades da aula de informatica
+# 💁‍♀️ Sobre a Ligia
+
+
+# 👨🏼‍💻 Atividades da aula de informatica
 
 Nesse repositorio ira ficar todas as atividades e trabalhos feitos na materia de informatica aplicada a logistica.
 # Índice
