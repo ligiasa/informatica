@@ -22,4 +22,6 @@ Na segunda aula a professora Adriana nos apresentou o Github e nos auxiliou na c
 * ![image](https://github.com/user-attachments/assets/574a7030-fef8-4529-a18b-cbca805e344e)
 
 * [AULA 11/10/2024](#conhecendo-powerbi)
-* 
+* # Tarefa 3: Power BI fórmulas DAX e KPI
+* ![Screenshot_1](https://github.com/user-attachments/assets/a85861a0-69fd-4394-91a2-ba87d55896b9)
+
