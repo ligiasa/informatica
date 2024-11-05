@@ -1,13 +1,17 @@
 # 💁‍♀️ Sobre a Ligia
 
-
 # 👨🏼‍💻 Atividades da aula de informatica
 
-Nesse repositorio ira ficar todas as atividades e trabalhos feitos na materia de informatica aplicada a logistica.
+Esse repositório contém todas as atividades e trabalhos realizados na disciplina de Informática Aplicada à Logística. Ao longo do curso, serão adicionados materiais e entregas relacionadas a diferentes ferramentas e técnicas aplicadas ao ambiente logístico, como o Power BI, GitHub, e análise de dados.
+
 # Índice
 
-* [AULA 1](#apresentação-pessoal-em-grupo)
-* [AULA 2](#criando-perfil-no-github)
+* 📑 Índice
+Aula 1: Apresentação Pessoal em Grupo
+Aula 2: Criando Perfil no GitHub
+Aula 3: Análise de Dados - Entrega 19/09
+Aula 4: Conhecendo o Power BI (27/09/2024)
+Aula 5: Fórmulas DAX e KPIs no Power BI (11/10/2024)
 
 ## APRESENTAÇÃO EM GRUPO: Informações pessoais
 Em duas aulas, disponibilizadas pela professora Adriana, realizamos a produção da presentação em slides interativos de perguntas e respostas sobre os integrantes do grupo.
