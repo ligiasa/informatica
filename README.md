@@ -20,7 +20,7 @@ Descrição:
 Em nossa primeira atividade em grupo, produzimos uma apresentação em slides interativos com perguntas e respostas sobre os integrantes do grupo. As perguntas abordam aspectos pessoais e profissionais de cada integrante. O trabalho foi feito utilizando a ferramenta Canva.
 
 Grupo:
-* Evellyn Bada
+* Evellyn Badan
 * Ligia Sá
 * Leonardo Rocha
 * Julio Braga
