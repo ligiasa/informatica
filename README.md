@@ -64,7 +64,7 @@ https://github.com/ligiasa/informatica/blob/main/filiaisDAXligia.pbix
 
 __
 
-##🛠️ Tecnologias Utilizadas:
+## 🛠️ Tecnologias Utilizadas:
 
 GitHub: Controle de versão e compartilhamento de projetos.
 Power BI: Criação de dashboards e análise de dados.
