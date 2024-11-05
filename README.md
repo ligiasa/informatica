@@ -6,29 +6,73 @@ Esse repositório contém todas as atividades e trabalhos realizados na discipli
 
 # Índice
 
-* 📑 Índice
-Aula 1: Apresentação Pessoal em Grupo
-Aula 2: Criando Perfil no GitHub
-Aula 3: Análise de Dados - Entrega 19/09
-Aula 4: Conhecendo o Power BI (27/09/2024)
-Aula 5: Fórmulas DAX e KPIs no Power BI (11/10/2024)
+# 📑 Índice
 
-## APRESENTAÇÃO EM GRUPO: Informações pessoais
-Em duas aulas, disponibilizadas pela professora Adriana, realizamos a produção da presentação em slides interativos de perguntas e respostas sobre os integrantes do grupo.
-Integrantes do grupo: Evellyn Bada, Lígia de Sá, Leonardo Rocha e Julio Braga.
-https://www.canva.com/design/DAGNZwywy3o/msgGjdCYuYnAUImQooENDg/edit?utm_content=DAGNZwywy3o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-![image](https://github.com/user-attachments/assets/0fb3d947-68c7-41f6-8fa8-556aad67e90f)
+* Aula 1: Apresentação Pessoal em Grupo
+* Aula 2: Criando Perfil no GitHub
+* Aula 3: Análise de Dados - Entrega 19/09
+* Aula 4: Conhecendo o Power BI (27/09/2024)
+* Aula 5: Fórmulas DAX e KPIs no Power BI (11/10/2024)
 
-## CRIANDO PERFIL NO GITHUB
-Na segunda aula a professora Adriana nos apresentou o Github e nos auxiliou na criação de perfil. Assistimos uma vídeo aula e armazenando nosso trabalho da aula 1.
+## 🎤 Aula 1: Apresentação Pessoal em Grupo
 
-## ENTREGA DO TRABALHO DE ANÁLISE DE DADOS 19/09
+Descrição:
+Em nossa primeira atividade em grupo, produzimos uma apresentação em slides interativos com perguntas e respostas sobre os integrantes do grupo. As perguntas abordam aspectos pessoais e profissionais de cada integrante. O trabalho foi feito utilizando a ferramenta Canva.
+
+Grupo:
+* Evellyn Bada
+* Ligia Sá
+* Leonardo Rocha
+* Julio Braga
+  
+(https://www.canva.com/design/DAGNZwywy3o/msgGjdCYuYnAUImQooENDg/edit?utm_content=DAGNZwywy3o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+![image])(https://github.com/user-attachments/assets/0fb3d947-68c7-41f6-8fa8-556aad67e90f)
+
+## 💻 Aula 2: Criando Perfil no GitHub
+
+Descrição:
+Na segunda aula, aprendemos a utilizar o GitHub, incluindo a criação de um perfil pessoal e a forma de armazenar e versionar os trabalhos. Foi uma introdução ao uso da plataforma de controle de versão e colaboração em projetos.
+
+Objetivo:
+Armazenar o trabalho da Aula 1 no repositório GitHub e entender o básico sobre commits e versões.
+
+## 📊 Aula 3: Análise de Dados - Entrega 19/09
+
+Descrição:
+Nesta atividade, realizamos a análise de um conjunto de dados de São José dos Campos (SJC), focando na organização e visualização dos dados. O trabalho foi realizado no Excel e disponibilizado para revisão.
+
+Arquivo:
 [IMAGEM](https://github.com/ligiasa/informatica/blob/main/an%C3%A1lise%20de%20dados%20sjc.xlsx)
 
-* [AULA 27/09/2024](#conhecendo-powerbi)
-* ![image](https://github.com/user-attachments/assets/574a7030-fef8-4529-a18b-cbca805e344e)
+## 📊 Aula 4: Conhecendo o Power BI (27/09/2024)
+
+Descrição:
+Aprendemos as funcionalidades do Power BI, uma poderosa ferramenta de Business Intelligence, que nos permite criar dashboards e relatórios interativos para a análise de dados. Utilizamos um conjunto de dados para criar uma primeira visualização e compartilhei o arquivo no GitHub.
+
+Arquivo:
+[image](https://github.com/user-attachments/assets/574a7030-fef8-4529-a18b-cbca805e344e)
 https://github.com/ligiasa/informatica/blob/main/Aula%2027.09.2024%20info.pbix
-* [AULA 11/10/2024](#conhecendo-powerbi)
-* # Tarefa 3: Power BI fórmulas DAX e KPI
-* ![Screenshot_1](https://github.com/user-attachments/assets/a85861a0-69fd-4394-91a2-ba87d55896b9)
+
+## 📊 Aula 5: Fórmulas DAX e KPIs no Power BI (11/10/2024)
+
+Descrição:
+Nesta aula, focamos no uso de fórmulas DAX (Data Analysis Expressions) e KPIs (Key Performance Indicators) no Power BI para criar relatórios dinâmicos e realizar análises mais detalhadas dos dados. Aplicamos essas fórmulas em um conjunto de dados e criamos um painel interativo.
+
+Arquivo:
+[Screenshot_1](https://github.com/user-attachments/assets/a85861a0-69fd-4394-91a2-ba87d55896b9)
 https://github.com/ligiasa/informatica/blob/main/filiaisDAXligia.pbix
+
+__
+
+##🛠️ Tecnologias Utilizadas:
+
+GitHub: Controle de versão e compartilhamento de projetos.
+Power BI: Criação de dashboards e análise de dados.
+Excel: Manipulação e organização de dados.
+Canva: Criação de apresentações interativas.
+
+## 🚀 Contribuições Futuras
+
+Este repositório será atualizado conforme o andamento das aulas e o desenvolvimento de novas habilidades e ferramentas na disciplina de Informática Aplicada à Logística. Acompanhe para mais atualizações!
+
+
