@@ -14,6 +14,7 @@ Esse repositório contém todas as atividades e trabalhos realizados na discipli
 * Aula 3: Análise de Dados - Entrega 19/09
 * Aula 4: Conhecendo o Power BI (27/09/2024)
 * Aula 5: Fórmulas DAX e KPIs no Power BI (11/10/2024)
+* Aula 6: Tarefa 4: Power BI, dados abertos, fórmulas DAX, KPI e Github
 
 ## 🎤 Aula 1: Apresentação Pessoal em Grupo
 
