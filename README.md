@@ -59,7 +59,6 @@ https://github.com/ligiasa/informatica/blob/main/Aula%2027.09.2024%20info.pbix
 
 Descrição:
 Nesta aula, focamos no uso de fórmulas DAX (Data Analysis Expressions) e KPIs (Key Performance Indicators) no Power BI para criar relatórios dinâmicos e realizar análises mais detalhadas dos dados. Aplicamos essas fórmulas em um conjunto de dados e criamos um painel interativo.
-![image](https://github.com/user-attachments/assets/c92983a3-0c8c-4d41-aee9-951f9ba397d2)
 
 Arquivo:
 [Screenshot_1](https://github.com/user-attachments/assets/a85861a0-69fd-4394-91a2-ba87d55896b9)
@@ -70,7 +69,7 @@ https://github.com/ligiasa/informatica/blob/main/filiaisDAXligia.pbix
 Descrição:
 Nesta aula fizemos o desenvolvimento para análise de dados abertos de fontes públicas, conforme as instruções da tarefa. A partir dos dados coletados e analisados, foram definidas metas a serem atingidas e criadas visualizações de KPIs para monitorar o progresso dessas metas.
 
-
+![image](https://github.com/user-attachments/assets/c92983a3-0c8c-4d41-aee9-951f9ba397d2)
 Arquivo:
 (https://fatecspgov-my.sharepoint.com/:u:/r/personal/ligia_sa_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/Tarefa%204%20Ligia.pbix?csf=1&web=1&e=wUgqXq)
 __
