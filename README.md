@@ -59,6 +59,7 @@ https://github.com/ligiasa/informatica/blob/main/Aula%2027.09.2024%20info.pbix
 
 Descrição:
 Nesta aula, focamos no uso de fórmulas DAX (Data Analysis Expressions) e KPIs (Key Performance Indicators) no Power BI para criar relatórios dinâmicos e realizar análises mais detalhadas dos dados. Aplicamos essas fórmulas em um conjunto de dados e criamos um painel interativo.
+![image](https://github.com/user-attachments/assets/c92983a3-0c8c-4d41-aee9-951f9ba397d2)
 
 Arquivo:
 [Screenshot_1](https://github.com/user-attachments/assets/a85861a0-69fd-4394-91a2-ba87d55896b9)
