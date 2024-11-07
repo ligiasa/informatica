@@ -62,6 +62,14 @@ Arquivo:
 [Screenshot_1](https://github.com/user-attachments/assets/a85861a0-69fd-4394-91a2-ba87d55896b9)
 https://github.com/ligiasa/informatica/blob/main/filiaisDAXligia.pbix
 
+## 📊 Aula 6: Tarefa 4: Power BI, dados abertos, fórmulas DAX, KPI e Github
+
+Descrição:
+Nesta aula fizemos o desenvolvimento para análise de dados abertos de fontes públicas, conforme as instruções da tarefa. A partir dos dados coletados e analisados, foram definidas metas a serem atingidas e criadas visualizações de KPIs para monitorar o progresso dessas metas.
+
+
+Arquivo:
+
 __
 
 ## 🛠️ Tecnologias Utilizadas:
