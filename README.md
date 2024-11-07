@@ -1,5 +1,5 @@
 # 💁‍♀️ Olá, eu sou a Ligia Sá 👋
-Sou estudante do primeiro semestre de Logística na FATEC São José dos Campos e apaixonada por aprender novas tecnologias e ferramentas que fazem a diferença no mundo dos negócios e da gestão. Neste repositório, você encontrará os projetos que desenvolvi ao longo deste semestre, bem como resumos das aulas de Informática, onde compartilho o conteúdo aprendido e insights sobre temas relacionados à área de TI e sua aplicação na Logística.
+Sou estudante do primeiro semestre de Logística na FATEC São José dos Campos e curiosa por aprender novas tecnologias e ferramentas que fazem a diferença no mundo dos negócios e da gestão. Neste repositório, você encontrará os projetos que desenvolvi ao longo deste semestre, bem como resumos das aulas de Informática, onde compartilho o conteúdo aprendido e insights sobre temas relacionados à área de TI e sua aplicação na Logística.
 
 # 👨🏼‍💻 Atividades da aula de informatica
 
