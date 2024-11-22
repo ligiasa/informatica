@@ -77,6 +77,18 @@ Nesta aula fizemos o desenvolvimento para análise de dados abertos de fontes p�
 
 Arquivo:
 (https://fatecspgov-my.sharepoint.com/:u:/r/personal/ligia_sa_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/Tarefa%204%20Ligia.pbix?csf=1&web=1&e=wUgqXq)
+
+## 📊 Aula 7: Power APPs e IA generativa (22/11/2024)
+
+Descrição:
+Nesta aula, usamos o Copilot para criar um aplicativo via Power Apps.
+
+![image](https://github.com/user-attachments/assets/e1357c6c-97f7-4d28-b454-453bac854cdb)
+
+
+
+Arquivo:
+[Screenshot_1](https://github.com/user-attachments/assets/a85861a0-69fd-4394-91a2-ba87d55896b9)
 __
 
 ## 🛠️ Tecnologias Utilizadas:
