@@ -88,7 +88,7 @@ Nesta aula, usamos o Copilot para criar um aplicativo via Power Apps.
 
 
 Arquivo:
-[Screenshot_1](https://github.com/user-attachments/assets/a85861a0-69fd-4394-91a2-ba87d55896b9)
+"C:\Users\coord\Videos\Captures\Power Apps Studio  _  Aplicativo (Edição) - Google Chrome 2024-11-22 17-52-54.mp4"
 __
 
 ## 🛠️ Tecnologias Utilizadas:
