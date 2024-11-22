@@ -87,7 +87,7 @@ Nesta aula, usamos o Copilot para criar um aplicativo via Power Apps.
 
 
 
-Arquivo: WhatsApp Video 2024-11-22 at 18.13.20.mp4
+Arquivo: (WhatsApp Video 2024-11-22 at 18.13.20.mp4)
 __
 
 ## 🛠️ Tecnologias Utilizadas:
