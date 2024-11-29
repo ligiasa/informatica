@@ -88,6 +88,14 @@ Nesta aula, usamos o Copilot para criar um aplicativo via Power Apps.
 
 
 Arquivo: [(WhatsApp Video 2024-11-22 at 18.13.20.mp4)](https://github.com/ligiasa/informatica/blob/main/WhatsApp%20Video%202024-11-22%20at%2018.13.20.mp4)
+
+## 📊 Aula 8: Prova (28/11/2024)
+
+Descrição:
+Nesta aula, fizemos prova de toda a matéria, na imagem abaixo é uma atividade que foi feita no Power Bi.
+
+![image](https://github.com/user-attachments/assets/f018005f-de51-4968-afce-26b47a6a98d6)
+
 __
 
 ## 🛠️ Tecnologias Utilizadas:
