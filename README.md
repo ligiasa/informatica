@@ -95,6 +95,7 @@ Descrição:
 Nesta aula, fizemos prova de toda a matéria, na imagem abaixo é uma atividade que foi feita no Power Bi.
 
 ![image](https://github.com/user-attachments/assets/f018005f-de51-4968-afce-26b47a6a98d6)
+[BAIXAR](https://github.com/ligiasa/informatica/blob/main/LIGIA%20DE%20ARAUJO%20SA.pbix)
 
 __
 
